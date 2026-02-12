@@ -1,5 +1,7 @@
 # PhysPhil25
-AHS Physics and Philosophy 25-26 (first cohort)
+AHS Physics and Philosophy 25-26
+
+The Physics and Philosophy Society is an excuse to bond over tea and biscuits. The most natural point to begin is of course... math! But where we go from there will depend on all of you. Recommended reading will be provided each week and by the end we will hopefully leave with a solid foundation in modern physics and a better understanding of the inextricable role of philosophy. Curiosity and an open-mind is 100% required. Experience in physics or philosophy is not (but definitely helpful). 
 
 ## Course Outline
 
