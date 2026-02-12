@@ -5,12 +5,12 @@ AHS Physics and Philosophy 25-26 (first cohort)
 
 Week 1: The unreasonable effectiveness of mathematics (Math as a structural science)
 - Philosophical stances discussed: (a) the entire universe is math and perception is merely categorical labelling of math, (b) reality is inherently logical such that math is a tool for us to describe the structure, (c) reality exists independently and we have ascribed math to conveniently map patterns observed.
-- Recommended reading: Eugene Wigner (https://webhomes.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf) and Max Tegmark (https://www.scientificamerican.com/article/is-the-universe-made-of-math-excerpt/)
+- Recommended readings: Eugene Wigner (https://webhomes.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf) and Max Tegmark (https://www.scientificamerican.com/article/is-the-universe-made-of-math-excerpt/)
 - Extension: Gödel's incompleteness theorem and its relation to physics
 
 Week 2: Early philosophical determinism and scientific determinism (from Stoicism to classical mechanics)
-- Principia by Newton, The System of Nature by d'Holbach, Mécanique Analytique by Lagrange, A Philosophical Essay on Probabilities by Laplace
-- Norton's Dome and pushback against determinism (https://www.youtube.com/watch?v=EjZB81jCGj4, https://sites.pitt.edu/~jdnorton/Goodies/Dome/#Note%206)
+- Recommended readings: Principia by Newton, The System of Nature by d'Holbach, Mécanique Analytique by Lagrange, A Philosophical Essay on Probabilities by Laplace
+- Norton's Dome and pushback against determinism (Intuitive https://www.youtube.com/watch?v=EjZB81jCGj4, Mathematical https://sites.pitt.edu/~jdnorton/Goodies/Dome/#Note%206)
 
 Week 3: Chaos and unpredictability within deterministic frameworks (Chaos Theory)
 - Lorentz Attractors vs Strange Attractors
