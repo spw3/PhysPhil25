@@ -4,7 +4,7 @@ AHS Physics and Philosophy 25-26
 Course Outline
 Week 1: The unreasonable effectiveness of mathematics (Math as a structural science)
 - Philosophical stances discussed: (a) the entire universe is math and perception is merely categorical labelling of math, (b) reality is inherently logical such that math is a tool for us to describe the structure, (c) reality exists independently and we have ascribed math to conveniently map patterns observed.
-- Reading: Eugene Wigner (https://webhomes.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf) and Max Tegmark (https://www.scientificamerican.com/article/is-the-universe-made-of-math-excerpt/)
+- Recommended reading: Eugene Wigner (https://webhomes.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf) and Max Tegmark (https://www.scientificamerican.com/article/is-the-universe-made-of-math-excerpt/)
 - Extension: Gödel's incompleteness theorem and its relation to physics
 
 Week 2: Early philosophical determinism and scientific determinism (from Stoicism to classical mechanics)
