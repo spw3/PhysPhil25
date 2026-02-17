@@ -42,8 +42,8 @@ In my own studies, I have been blessed with the publicly accessible resources co
 - Lecture notes for physics at Oxford: https://www.physics.ox.ac.uk/research/subdepartment/rudolf-peierls-centre-theoretical-physics/theoretical-physics-teaching
 
 For students who are genuinely interested in pursuing physics AND philosophy at university, here is the reading list provided by the admissions team (https://insightoutreach.org/wp-content/uploads/2021/03/Physics-and-Philosophy-Reading-List.pdf). 
-However, for a more representative experience of studying physics and philosophy at a graduate level, I highly recommend the Philosophy of Physics YT Channel (https://www.youtube.com/@OxfordPhilosophyofPhysics/videos), where some of the Thursday guest seminars at Oxford are recorded and posted for the public. 
-You can find the full list of past guest lectures and upcoming seminars on this website (http://www.philosophy-of-physics.ox.ac.uk/tag/thursday-seminars/).
+However, for a more representative experience of studying physics and philosophy at a graduate level, I recommend the Philosophy of Physics YT Channel (https://www.youtube.com/@OxfordPhilosophyofPhysics/videos), where some of the Thursday guest seminars at Oxford are recorded and posted for the public. 
+You can find the full list of past topics and upcoming guests on this website (http://www.philosophy-of-physics.ox.ac.uk/tag/thursday-seminars/).
 
 If you aren't sure, you may find this a useful litmus test for your own level of interest in metaphysics,
 https://www.philosophy.ox.ac.uk/files/metaphilosophy2021pdf
