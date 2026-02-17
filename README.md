@@ -24,9 +24,9 @@ And following our weekly session, I would update the archive with;
 
 ## Inspirations
 This course structure is heavily inspired by PhysPhil at Oxford (https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/physics-and-philosophy).
-1st Year: Introductory philosophy of physics. Philosophical topics in logic and probability.
-2nd Year: Philosophy of science. Philosophy of special relativity. Thermal physics.
-3rd Year: Philosophy of quantum mechanics. General relativity.
+  1st Year: Introductory philosophy of physics. Philosophical topics in logic and probability.
+  2nd Year: Philosophy of science. Philosophy of special relativity. Thermal physics.
+  3rd Year: Philosophy of quantum mechanics. General relativity.
 
 *For those more philosophy-inclined, navigate the Philosophy course (https://www.philosophy.ox.ac.uk/sitefiles/lecture-prospectus-tt25.pdf) at your own peril.
 
