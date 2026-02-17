@@ -3,63 +3,43 @@ AHS Physics and Philosophy 25-26
 
 The Physics and Philosophy Society is an excuse to bond over tea and biscuits. The most natural point to begin is of course... math! But where we go from there will depend on all of you. Recommended reading will be provided each week and by the end we will hopefully leave with a solid foundation in modern physics and a better understanding of the inextricable role of philosophy. Curiosity and an open-mind is 100% required. Experience in physics or philosophy is not (but definitely helpful). 
 
-## Course Outline
 
-Week 1: The unreasonable effectiveness of mathematics (Math as a structural science)
-- Philosophical stances discussed: (a) the entire universe is math and perception is merely categorical labelling of math, (b) reality is inherently logical such that math is a tool for us to describe the structure, (c) reality exists independently and we have ascribed math to conveniently map patterns observed.
-- Recommended readings: Eugene Wigner (https://webhomes.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf) and Max Tegmark (https://www.scientificamerican.com/article/is-the-universe-made-of-math-excerpt/)
-- Extension: Gödel's incompleteness theorem and its relation to physics
 
-Week 2: Early philosophical determinism and scientific determinism (from Stoicism to classical mechanics)
-- Recommended readings: Principia by Newton, The System of Nature by d'Holbach, Mécanique Analytique by Lagrange, A Philosophical Essay on Probabilities by Laplace
-- Norton's Dome and pushback against determinism (Intuitive https://www.youtube.com/watch?v=EjZB81jCGj4, Mathematical https://sites.pitt.edu/~jdnorton/Goodies/Dome/#Note%206)
+## Details
+This repository is intended for my own personal use as an archive and a place to consolidate resources, given my propensity for losing all my files into an ether of unorganised mess. You may find the brief notes and recommended reading for each week in a separate file in the main directory. Some of the mathematical content can be challenging, but most if not all, of the interactive simulations shown are achievable projects that I would recommend coding for fun and to solidify your own understanding. 
 
-Week 3: Chaos and unpredictability within deterministic frameworks (Chaos Theory)
-- Lorentz Attractors vs Strange Attractors
-- Using ensembles to estimate predictability (https://www.youtube.com/watch?v=RkiEV47KPX4)
-- Ontological limitation or physical limitation? (On continuous space-time or discrete LQG)
+That said, I was not prepared for the monumental undertaking of covering 4 years of university-level content in such a condensed fashion. I am current in the process of archiving all the resources I shared with my class this year (25-26) and I have also taken time to reflect on what I would do differently should I attempt this again.
 
-  Refining our definitions of determinism and predictability.
+In an ideal world, this is what I envision ready at the beginning of each week;
+1. Question - Topic
+2. Pre-Reading
+3. Guiding Questions
 
-Week 4*: Tangential discussion on current LLMs
-- Deconstructing the difference between algorithms vs ML vs AI
-- The mathematics behind basic feedforward neural networks and the backpropagation algorithm
+And following our weekly session, I would update the archive with;
+4. Philosophical Stances Discussed
+5. Questions/Ideas Raised
+6. Extensions
 
-Week 5*: Halloween
-- Demons and Monsters in modern physics
-- The role of thought experiments in probing limitations of a framework while remaining within it
 
-Week 6: Black swans and Two-Colored sheep (Bayesian inference in probability)
-- The inherent probabilistic nature of science and knowledge. Understanding Baye's theorem.
-- Probability distribution functions and the mathematical requirements for convergence between frequentist interpretations and Bayesian interpretations.
 
-Week 7: N/a
-- Missing most members. Ended up asking why different members joined initially as well as why they've stayed.
+## Inspirations
+This course structure is heavily inspired by PhysPhil at Oxford (https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/physics-and-philosophy).
+1st Year: Introductory philosophy of physics. Philosophical topics in logic and probability.
+2nd Year: Philosophy of science. Philosophy of special relativity. Thermal physics.
+3rd Year: Philosophy of quantum mechanics. General relativity.
 
-Week 8: Wave-particle duality and decomposition of orthogonal bases (Quantum Mechanics)
-- Fixing misconceptions about duality. Understanding wavefunctions and QM as a probabilistic framework. Venn diagrams and Non-Boolean math.
-- Bell's Inequality and its ramifications of hidden variables vs non-locality.
+*For those more philosophy-inclined, navigate the Philosophy course (https://www.philosophy.ox.ac.uk/sitefiles/lecture-prospectus-tt25.pdf) at your own peril.
 
-Week 9: Interpretations of QM (Quantum Mechanics)
-- Wave-function collapse and the many propositions to reconcile our experience with the math behind QM.
-- Many-worlds. Measurement.
+## Introductory Resources
+(To Be Completed)
 
-Week 10: The axiomization of constructive theories in physics (Thermodynamics)
-- Hilbert's sixth problem and the asymptotic limits between classical mechanics, thermodynamics, and fluid dynamics. (extension: QM-based statistical mechanics)
-- The proof that truncation error converges to zero always.
+## Further Education
+In my own studies, I have been blessed with the publicly accessible resources compiled by these individuals.
+Lecture notes for physics at Cambridge: https://www.damtp.cam.ac.uk/user/tong/teaching.html
+Lecture notes for math at Cambridge: https://dec41.user.srcf.net/notes/
+Lecture notes for physics at Oxford: https://www.physics.ox.ac.uk/research/subdepartment/rudolf-peierls-centre-theoretical-physics/theoretical-physics-teaching
 
-Week 11: Time irreversibility as en emergent phenomenon (Statistical Mechanics)
-- Time reversibility of fundamental physical frameworks. Symmetries and conservation laws from Nöether's theorem.
-- Standard derivation of Boltzmannian entropy from macrostate statistics and understanding complexity defined as local-deviations from an homogeneous isotropic space.
+For students who are genuinely interested in pursuing physics AND philosophy at university, here is the reading list provided by the admissions team (https://insightoutreach.org/wp-content/uploads/2021/03/Physics-and-Philosophy-Reading-List.pdf). However, for a more representative experience of studying physics and philosophy at a graduate level, I highly recommend the Philosophy of Physics YT Channel (https://www.youtube.com/@OxfordPhilosophyofPhysics/videos), where some of the Thursday guest seminars at Oxford are recorded and posted for the public. You can find the full list of past guest lectures and upcoming seminars on this website (http://www.philosophy-of-physics.ox.ac.uk/tag/thursday-seminars/).
 
-Week 12: N/a
-- Missing most members. Ended up discussing the ethics of human drug trials. Fairness in terms of voluntary vs random, whilst ackowledging hidden societal pressures as a potential factor. Value of life, human superiority, and removal of human rights. Outcome-based analysis with retroactive knowledge vs assigning values on an unknown future outcome. Sunk-cost fallacy.
-
-Week 13: N/a
-- Cancelled
-
-Week 14: A principle theory of reality (General Relativity)
-- Showing the principles of Action Principle, Locality, Lorentz invariance, and Gauge symmetry within the Einstein field equations.
-- Recovering Newtonian limits and gravitational waves from the energy momentum tensor.
-
-Week 15+: Student presentations
+If you aren't sure, you may find this a useful litmus test for your own level of interest in metaphysics,
+https://www.philosophy.ox.ac.uk/files/metaphilosophy2021pdf
