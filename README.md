@@ -1,7 +1,7 @@
 # PhysPhil25
 AHS Physics and Philosophy 25-26
 
-The Physics and Philosophy Society is an excuse to bond over tea and biscuits. The most natural point to begin is of course... math! But where we go from there will depend on all of you. Recommended reading will be provided each week and by the end we will hopefully leave with a solid foundation in modern physics and a better understanding of the inextricable role of philosophy. Curiosity and an open-mind is 100% required. Experience in physics or philosophy is not (but definitely helpful). 
+The Physics and Philosophy Society is an excuse to bond over tea and biscuits. The most natural point to begin is of course... math! But where we go from there will depend on all of you. Recommended reading will be provided each week. The goal is to leave with a solid foundation in modern physics and a better understanding of the inextricable role of philosophy at the end of the course. Curiosity and an open-mind is 100% required. Experience in physics or philosophy is not (but definitely helpful). 
 
 
 
@@ -33,7 +33,7 @@ This course structure is heavily inspired by PhysPhil at Oxford (https://www.ox.
 *For those more philosophy-inclined, navigate the Philosophy course (https://www.philosophy.ox.ac.uk/sitefiles/lecture-prospectus-tt25.pdf) at your own peril.
 
 ## Introductory Resources
-(To Be Completed)
+- 
 
 ## Further Education
 In my own studies, I have been blessed with the publicly accessible resources compiled by these individuals.
