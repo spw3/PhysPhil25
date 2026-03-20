@@ -1,0 +1,26 @@
+Basic information:
+An introduction to consciousness and the questions that remain unanswered.
+https://kids.frontiersin.org/articles/10.3389/frym.2025.1667443
+
+Recommended Reading:
+Curated collection of resources related to topic.
+https://www.frontiersin.org/journals/science/article-hubs/advancing-consciousness-science
+Dimensionality of Consciousness
+https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1430262/full#sec10
+
+Extended Reading:
+Neuroscience of Consciousness. A rather new, and niche, annual journal dedicated to the topic.
+https://academic.oup.com/nc
+
+Potential Exercises for the Reader:
+- Get me a biologist
+
+Points discussed in the session:
+1. GWT is a computationally simple model, hence widely used in Neuroscience and CompSci. However, there is much empirical evidence for parallel, distributed cortical processing instead of a localised central workspace.
+2. HOT fails to define a clear mathematical operator that allows us to elevate a first-order state to the next level.
+3. IIT fails to define a clear mathematical function that allows us to quantify a phi which arguably has no reason to be linear and the reference points we use are arbitrary.
+
+Now allow me to share my haphazard idea. As a theoretical physicist with 8th grade biology and questionable math, one begins to hallucinate QM in every nook and cranny. First let us construct a sensory state, s, as a probability distribution over some higher order vector space, S. It makes sense since we can then easily define the tensor product, S x S, as the simple addition of senses. We can introduce a monadic functors, H: S-> M(S), like in QFT such that it allows us to elevate any state to a higher-order H^(n+1)(s). And since neuroscience studies seem to only ever measure actions anyway, we simply add an operator that produces a measurable action, in which our eigenvalues are the available options.
+We will ignore the fact I just took QFT and relabelled it. Let's ignore that the operator is likely neither surjective nor injective, let alone incompatible with time-delayed outcomes. I haven't defined the equivalent of the TDSE that retains smooth continuous evolution of conscious states. Nor have I defined a sufficiently discrete H (or is H a continuum?)...
+Alas, one day I will return to this idea with better mathematical tools. I'm sure I could drape a manifold or squeeze a fibre bundle in there somewhere. There's probably topology too but my contributions stop here.
+
