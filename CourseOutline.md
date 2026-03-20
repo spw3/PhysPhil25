@@ -1,24 +1,38 @@
 # Course Outline
 
-Term ONE
+## Term ONE
+
 Week 0: The unreasonable effectiveness of mathematics (Math as a structural science)
+
 Week 1: Early philosophical determinism and scientific determinism (from Stoicism to Classical Mechanics)
+
 Week 2: Chaos and unpredictability within deterministic frameworks (Chaos Theory)
+
 Week 3*: Tangential discussion on current LLMs (Backpropagation and Feedforward algorithms from Nobel '24)
+
 Week 4*: Halloween (Demons and Monsters of Modern Physics)
+
 Week 5: Black swans and two-coloured sheep (Bayesian Inference and Probability)
+
 Week 6: N/a (Cancelled)
+
 Week 7: Wave-particle duality and the general decomposition of orthogonal bases (Quantum Mechanics)
+
 Week 8: Physical interpretations of quantum mechanics (Quantum Mechanics)
 
-Term 2
+## Term TWO
+
 Week 9: The axiomization of constructive theories in physics (Thermodynamics)
+
 Week 10: Time irreversibility as an emergent phenomenon (Statistical Mechanics)
+
 Week 11*: N/a (Faust theatre trip)
+
 Week 12*: N/a (Cancelled)
+
 Week 13: A principle theory of reality (General Relativity)
 
-Student Presentations
+## Student Presentations
 ~~Week 14: Artificial Life, by Leo P. (top-down vs bottom-up approach in 2026, the aftermath of widespread adoption of LLMs)~~
 Week 14: Artificial Life, by Leo P. (Defining artifical life and intelligence)
 Week 15: N/a (Cancelled)
@@ -26,3 +40,6 @@ Week 15: N/a (Cancelled)
 Week 16: Consciousness, by Anna S. (Global Workspace Theories vs Integrated Information Theories vs Higher-order Theories)
 Week 17: Reconciling Evil and the Existence of God, by Olga C. (Platinga's Free Will Defense vs Augustinian Theodicy vs Irenaean Theodicy) 
 Week 18: Standards of Measurements, by Illia S. (SI Units and Physical Constants)
+
+## Term THREE
+Week 19: TBC...
