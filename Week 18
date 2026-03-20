@@ -1,0 +1,25 @@
+Basic information:
+SI units. 22 (useful) derived units. And how they're defined.
+https://www.nist.gov/pml/owm/metric-si/si-units
+https://en.wikipedia.org/wiki/2019_revision_of_the_SI
+
+Recommended Reading:
+Frank Wilczek (Nobel Laureate, for his work on QCD) and his take on different absolute units as an alternative to the natural units Planck suggested.
+https://physicstoday.aip.org/opinion/on-absolute-units-i-choices
+And the sequel in response to his first article.
+https://physicstoday.aip.org/opinion/on-absolute-units-ii-challenges-and-responses
+
+Extended Reading:
+Terrence Tao on the benefits of using a dimensionful parametric framework for physics (as opposed to dimensionally inconsistent frameworks under specific units). He further explains how by mapping everything into an abstract vector space we add mathematical rigour to physicist's "dimensional consistency" argument. And shows how a reference measure can be omitted. At least until actual measurements are needed.
+https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/
+A trialogue on the number of fundamental dimensionful units.
+https://arxiv.org/pdf/physics/0110060
+David Black and his brief summary on the 26 dimensionless constants that define our universe. Tangentially related, but highlights how physical laws are just as much dictated by these fundamental constants. (See also Ethan Siegel)
+https://math.ucr.edu/home/baez/constants.html
+
+Potential Exercises for the Reader:
+- Deriving expressions for A, V, p, E, F, /rho, and a... in Planck units of c, G, hbar, and k_b.
+
+Questions still to be answered:
+- Proof the 5 base units (ignoring moles and candela) are algebraically independent.
+- Proof that the 5 base units are sufficient to capture all physical quantities.
